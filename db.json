@@ -1,4 +1,5 @@
-
+{
+  users:[
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -13,3 +14,5 @@
     "email": "Shanna@melissa.tv",
     "password": "1234567"
   }
+    ]
+}
